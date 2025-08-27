@@ -55,7 +55,7 @@ I love designing apps that are **simple, intuitive, and functional**.
 |------------|------------------|
 | ![Empty Notes](<img width="459" height="928" alt="Screenshot 2025-08-28 015845" src="https://github.com/user-attachments/assets/e411a632-083d-4cb2-9c64-c33a0df32635" />
 ) | ![After Adding Note](<img width="389" height="797" alt="Screenshot 2025-08-28 015911" src="https://github.com/user-attachments/assets/9c015ab1-08a5-401e-a9f0-77cf201cad84" />
-)|![After Adding Note](<img width="389" height="797" alt="Screenshot 2025-08-28 015911" src="https://github.com/user-attachments/assets/b56fadf4-0377-42da-87f8-e2f218252014" />
+)|![After Adding Note](<img width="391" height="795" alt="Screenshot 2025-08-28 015943" src="https://github.com/user-attachments/assets/a3fa8c18-2b46-428d-a443-d25be38cecd7" />
 )|
 
 ---
