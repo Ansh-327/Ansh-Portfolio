@@ -29,6 +29,17 @@ I love designing apps that are **simple, intuitive, and functional**.
 
 ---
 
+## 💼 Work Experience
+
+**STAXA Technologies** – *Software Developer*  
+*Apr 2025 – May 2025*  
+
+- Built and maintained scalable Android applications using **Kotlin, Android Studio, Room Database, Firebase, and Jetpack Components**.  
+- Delivered **offline-capable applications** with modern UI/UX patterns (**MVVM, Material Design**).  
+- Implemented **RecyclerView, custom adapters, navigation components**.
+
+---
+
 ## 📱 Projects
 
 ### 1️⃣ TrackMyNotes
@@ -80,13 +91,12 @@ I love designing apps that are **simple, intuitive, and functional**.
 ---
 
 ## 🏆 Achievements / Certifications
-- Completed **Kotlin & Android Development Courses** on Coursera/Udemy  
-- Participated in **Hackathons & App Competitions**  
-- Google Android Developer Certification (if any)
+- **Certified in Data Structures and Algorithms** by Infosys with practical problem-solving experience.  
+- **Certified in Internet of Things: Design Concepts and Use Cases** by Swayam Online Course Certification.  
+- **Awarded for outstanding dance performance** in school cultural events.
 
 ---
 
 ## 📫 Contact Me
 - **Email:** choudhary.ansh2723@gmail.com  
-- **LinkedIn:** [Profile](https://www.linkedin.com/in/<your-link>)  
-- **GitHub:** [Profile](https://github.com/<your-username>)
+- **Mobile Number:** 7018210844 
