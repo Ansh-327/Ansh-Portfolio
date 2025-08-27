@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ansh Choudhary
-### Android App Developer | Kotlin Enthusiast
+### UI/UX Designer | Android App Developer | Kotlin Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/<your-link>) 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Ansh-327)
@@ -34,7 +34,7 @@ I love designing apps that are **simple, intuitive, and functional**.
 **STAXA Technologies** – *Software Developer*  
 *Apr 2025 – May 2025*  
 
-- Built and maintained scalable Android applications using **Kotlin, Android Studio, Room Database, Firebase, and Jetpack Components**.  
+- Built and maintained scalable Android applications using **Kotlin, Android Studio, UI/UX, Room Database**.  
 - Delivered **offline-capable applications** with modern UI/UX patterns (**MVVM, Material Design**).  
 - Implemented **RecyclerView, custom adapters, navigation components**.
 
@@ -43,7 +43,7 @@ I love designing apps that are **simple, intuitive, and functional**.
 ## 📱 Projects
 
 ### 1️⃣ TrackMyNotes
-**Tech Stack:** Kotlin, MVVM, Room Database  
+**Tech Stack:** Kotlin, MVVM, Room Database, UI/UX  
 
 **Features:**  
 - Add / Edit / Delete Notes  
