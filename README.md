@@ -8,7 +8,7 @@
 
 ## 💻 About Me
 I am a passionate Kotlin Android developer focused on building **clean, efficient, and user-friendly mobile apps and their UI**.  
-Hands-on experience with **XML layouts, MVVM architecture, Room Database**.  
+Hands-on experience with **Figma, XML layouts, MVVM architecture, Room Database**.  
 
 I love designing apps that are **simple, intuitive, and functional**.
 
@@ -19,9 +19,9 @@ I love designing apps that are **simple, intuitive, and functional**.
 | Skill | Level |
 |-------|-------|
 | Kotlin | ★★★★★ |
-| C++ | ★★★★☆ |
+| UI/UX | ★★★★☆ |
 | Android Studio | ★★★★★ |
-| Git/GitHub | ★★★★☆ |
+| C++ | ★★★★☆ |
 | MVVM Architecture | ★★★★☆ |
 | Room Database | ★★★★☆ |
 | HTML/CSS | ★★★☆☆ |
