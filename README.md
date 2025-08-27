@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ansh Choudhary
 ### UI/UX Designer | Android App Developer | Kotlin Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/<your-link>) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ansh-choudhary-301551368/) 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Ansh-327)
 
 ---
