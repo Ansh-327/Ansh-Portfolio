@@ -78,6 +78,14 @@ I love designing apps that are **simple, intuitive, and functional**.
 
 ---
 
+## 🎨 UI/UX Journey
+Currently, I design and build UI/UX directly in **Android Studio** using Kotlin.  
+I can also **implement Figma designs into Android Studio** and bring them to life through code.  
+
+Right now, I am learning to create **original UI/UX designs in Figma**, and with consistent practice, I will soon master it too. 🚀
+
+---
+
 ## 📫 Contact Me
 - **Email:** choudhary.ansh2723@gmail.com  
 - **Mobile Number:** 7018210844 
